@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "mocha": "",
-    // "uglify-js": "",
+    "uglify-js": "",
     "uglifyjs": "^2.4.10",
     "xlsjs": ""
   },
